@@ -1,0 +1,21 @@
+# Git
+.git/
+.gitignore
+
+# Development
+.vscode/
+.idea/
+
+# Testing
+test/
+*.test.js
+*.spec.js
+
+# Config files that aren't needed in package
+.eslintrc*
+.prettierrc*
+tsconfig.json
+
+# Misc
+*.log
+.DS_Store
